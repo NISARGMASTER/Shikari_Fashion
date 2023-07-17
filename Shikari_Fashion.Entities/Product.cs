@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Shikari_Fashion.Entities
 {
-    // here we  inherit from BaseEntity class . here Product is a child entity.
+    // here we inherit from BaseEntity class.here Product is a child entity.
     public class Product : BaseEntity
     {
        

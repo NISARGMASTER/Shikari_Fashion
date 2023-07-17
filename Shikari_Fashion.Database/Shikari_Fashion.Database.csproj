@@ -8,4 +8,8 @@
     <PackageReference Include="EntityFramework" Version="6.4.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Shikari_Fashion.Entities\Shikari_Fashion.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
